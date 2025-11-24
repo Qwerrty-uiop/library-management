@@ -32,7 +32,8 @@ cd library-management
 ```
 
 **2. Install the necessary libraries:**
-Make sure you have Python 3 installed. Then, run this command in your terminal:```bash
+Make sure you have Python 3 installed. Then, run this command in your terminal:
+```bash
 pip install -r requirements.txt
 ```
 
